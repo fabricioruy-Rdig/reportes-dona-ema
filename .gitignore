@@ -1,0 +1,9 @@
+# Entorno virtual y archivos de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Reportes que se generan al probar
+ejemplos/Reportes/
+
